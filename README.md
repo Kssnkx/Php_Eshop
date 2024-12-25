@@ -15,4 +15,5 @@ sudo php -S localhost:80 -t .
 ```http://localhost:8000``
 
 # Результат
-![image](https://github.com/user-attachments/assets/ebb167a6-46bf-446e-888f-d998e3921fb5)
+![image](https://github.com/user-attachments/assets/1698c256-60f6-497b-baa1-df4620f7d599)
+
