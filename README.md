@@ -13,3 +13,6 @@ sudo php -S localhost:80 -t .
 
 Доступ к вашему приложению:
 ```http://localhost:8000``
+
+# Результат
+![image](https://github.com/user-attachments/assets/ebb167a6-46bf-446e-888f-d998e3921fb5)
